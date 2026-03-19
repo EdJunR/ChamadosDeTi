@@ -7,3 +7,6 @@ Id, Titulo, Data de Abertura, Data de Atualização, Status, anexos da abertura,
 
 ### Histórico de Alterações:
 Id, Data da atualização, anexos comprovantes da atualização *obrigatório*
+
+### Cadastro de Funcionários (Pelo TI)
+Id (auto), Nome, Doc. Identificação, número, cargo (combobox)
