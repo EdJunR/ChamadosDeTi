@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="css/style.css">
 
 </head>
+<?php
+?>
 <body>
     <header>
         <h1 class="ChameAqui">Chame aqui!</h1>
