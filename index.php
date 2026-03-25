@@ -20,7 +20,7 @@ if (!empty($_GET['opcoes'])) {
 <body>
     <header>
         <div align="center">
-            <h1 class="ChameAqui">Chame aqui!</h1>
+            <h1>Chame aqui!</h1>
             <div align="right">
                 <img src="img/sino.png" alt="Imagem de sino pixelada em cor verde, representando o ícone de notificações." class="img">
         </div>
