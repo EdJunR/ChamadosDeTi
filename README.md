@@ -12,4 +12,4 @@ Id, Data da atualização, anexos comprovantes da atualização *obrigatório*
 Id (auto), Nome, Doc. Identificação, número, cargo (combobox)
 
 #### Comando para lançar a atualização no usbwebserver
-robocopy . "C:\Users\edjun\Downloads\usbwebserver_v8.6.5\usbwebserver\root\php" /E
+robocopy . "C:\Users\edjun\Downloads\usbwebserver_v8.6.5\usbwebserver\root\php" /E /IS /IT

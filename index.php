@@ -19,11 +19,12 @@ if (!empty($_GET['opcoes'])) {
 
 <body>
     <header>
-        <div align="center">
-            <h1>Chame aqui!</h1>
-            <div align="right">
+        <section>
+            <div class="cabecalho">
+                <h1>Chame aqui!</h1>
                 <img src="img/sino.png" alt="Imagem de sino pixelada em cor verde, representando o ícone de notificações." class="img">
-        </div>
+            </div>
+        </section>
         </header>
         <br>
     <main>

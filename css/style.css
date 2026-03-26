@@ -27,9 +27,9 @@ header{
     h1{
         font-family: Sixtyfour-regular;
         width: 500px;
-        text-align: center;
-        display: block;
-        margin: 0 auto;
+    }
+    .cabecalho{
+        display:flex;
     }
 
     .img{
