@@ -21,8 +21,12 @@ if (!empty($_GET['opcoes'])) {
     <header>
         <section>
             <div class="cabecalho">
-                <h1>Chame aqui!</h1>
-                <img src="img/sino.png" alt="Imagem de sino pixelada em cor verde, representando o ícone de notificações." class="img">
+                <div class>
+                    <h1>Chame aqui!</h1>
+                </div>
+                <div>
+                    <img src="img/sino.png" alt="Imagem de sino pixelada em cor verde, representando o ícone de notificações." class="img">
+                </div>
             </div>
         </section>
         </header>
@@ -34,6 +38,7 @@ if (!empty($_GET['opcoes'])) {
                 <select name="opcoes" id="opcoes">
                     <option value="usuarios.php">Usuários</option>
                     <option value="index.php">Index</option>
+                    <option value="calendario.php">Calendário</option>
                 </select>
                 <button type="submit">Navegar!</button>
             </form>
